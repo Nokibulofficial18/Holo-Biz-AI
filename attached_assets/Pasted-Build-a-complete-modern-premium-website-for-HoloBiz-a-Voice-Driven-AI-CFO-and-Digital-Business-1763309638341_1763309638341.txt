@@ -1,0 +1,362 @@
+Build a complete, modern, premium website for “HoloBiz” — a Voice-Driven AI CFO and Digital Business Advisor designed specifically for Bangladeshi SMEs.
+The website should clearly communicate how HoloBiz solves financial, regulatory, managerial and operational challenges through conversational AI in Bangla and English.
+Make it visually futuristic, trustworthy, government-aligned, SME-friendly, and extremely easy to understand.
+
+🎨 Brand Style & Theme
+
+Professional fintech + friendly AI
+
+Clean, futuristic, policy-aligned
+
+Colors:
+
+Deep Blue: #1A73E8 (trust + fintech)
+
+Purple: #7C4DFF (AI/innovation)
+
+Green: #43A047 (success/growth indicators)
+
+Warm Yellow: #FBC02D (alerts/highlights)
+
+Background: #F4F6F8
+
+Typography:
+
+Headings: Poppins
+
+Body: Inter / Roboto
+
+Design Style:
+
+Glassmorphism
+
+Soft gradients
+
+Animated sound waves
+
+Conversational bubbles
+
+Finance dashboard elements
+
+🏠 Pages to Create
+1. Landing Page (Homepage)
+Hero Section
+
+Large headline:
+“HoloBiz — Your AI CFO. Speak. Understand. Grow.”
+
+Subheadline:
+“A voice-driven financial advisor for Bangladesh’s 7.8M SMEs. Speak in Bangla or English — get instant insights, predictions and guidance.”
+
+Buttons:
+
+Try HoloBiz
+
+How It Works
+
+Visuals:
+
+Voice wave animation
+
+Mobile app UI
+
+AI avatar “assistant”
+
+SME-focused imagery
+
+Problem Section
+
+Show statistics with icons:
+
+90% of industrial units are CMSMEs
+
+SMEs contribute 25% to GDP (low vs global benchmarks)
+
+39% of MSMEs financially constrained
+
+Low financial literacy
+
+Manual bookkeeping, no data insights
+
+Complex compliance steps
+
+Tech and infrastructure barriers
+
+Solution Section
+
+Headline:
+“Turn Business Complexity Into Simple Voice Conversations.”
+
+Show how HoloBiz helps:
+
+Daily profit/loss
+
+Cash flow predictions
+
+Expense warnings
+
+Inventory alerts
+
+Loan guidance
+
+Product diversification suggestions
+
+Compliance reminders
+
+Export-readiness support
+
+New SME-Focused Features (Highlight Section)
+
+Create visually attractive icons for each:
+
+AI Credit-Readiness Advisor
+
+Regulatory & Compliance Voice Guide
+
+Export Readiness Advisor
+
+Product Diversification Engine
+
+Cluster & Community Intelligence
+
+Need-Based Voice Micro-Training
+
+Government Scheme & Grant Finder
+
+Impact Numbers Section
+
+Cards showing:
+
+“Up to 20% profit improvement”
+
+“30% reduction in inventory waste”
+
+“Credit access support for constrained SMEs”
+
+“Goal: 100,000 SME users in 3 years”
+
+Call-to-Action
+
+A full-width banner:
+“Give Your Business a Voice. HoloBiz Guides You Every Day.”
+Button: Get Started Free
+
+2. How HoloBiz Works Page
+
+Step-by-step explanation:
+
+Speak → Ask anything in Bangla/Banglish
+
+Understand → LLM interprets business context
+
+Analyze → Dashboards + forecasts + reasoning
+
+Advise → Personalized recommendations
+
+Show real sample queries:
+
+“আমার আজকের লাভ কত?”
+
+“কোন পণ্য বেশি বিক্রি হয়েছে?”
+
+“আমি কি ঋণ নিতে পারবো?”
+
+“আমার ট্রেড লাইসেন্স কবে রিনিউ করতে হবে?”
+
+Include graphics of:
+
+Sound wave
+
+Chat bubbles
+
+Financial charts
+
+3. Features Page
+
+Organize into sections:
+
+A. Core Financial Assistant
+
+Profit/loss
+
+Cashflow forecasting
+
+Expense insights
+
+Inventory warnings
+
+B. Compliance & Licensing Assistant
+
+VAT registration guide
+
+Trade license reminders
+
+Tax compliance steps
+
+C. Access to Finance Tools
+
+Credit score insights
+
+Bank document preparation
+
+Guidance on CGS, SME Foundation loans
+
+D. Export Advisor
+
+Market recommendations
+
+Packaging/certification guidance
+
+Pricing strategy
+
+E. Diversification & Growth
+
+Trend analysis
+
+New product line suggestions
+
+F. Community & Cluster Intelligence
+
+Nearby market insights
+
+Joint procurement suggestions
+
+G. Micro Training Modules
+
+Accounting basics
+
+Quality control
+
+Digital marketing
+
+B2B sales
+
+4. SME Use Case Page
+
+Individual pages or sections for:
+
+Retail shops
+
+Pharmacies
+
+Clothing stores
+
+Handicraft manufacturers
+
+Leather goods makers
+
+Online sellers
+
+Wholesalers
+
+Each section shows:
+
+Problems faced
+
+How HoloBiz solves them
+
+Sample voice commands
+
+5. Technology Page
+
+Show HoloBiz architecture with diagrams:
+
+Whisper/Vosk STT
+
+Fine-tuned Bangla-Banglish LLM
+
+Prophet/LSTM forecasting
+
+RL personalization
+
+Python FastAPI backend
+
+MongoDB Atlas database
+
+AWS/GCP cloud functions
+
+Highlight:
+
+Near-offline mode
+
+Secure storage
+
+Encrypted financial data
+
+6. Impact & Policy Alignment Page
+
+Highlight alignment with SME Policy 2019:
+
+Access to finance
+
+Skill development
+
+Cluster development
+
+Export capability
+
+Digital transformation
+
+Include projected outcome graphs.
+
+7. About Us Page
+
+Team profiles (with image, GitHub, LinkedIn):
+
+Nokibul Hasan – Project Lead, AI/ML, Frontend
+
+Md. Hasibul Haque – Co-Lead, Data Scientist
+
+Ruhin Arman Omi – Backend Developer
+
+Add mission, vision, values.
+
+8. Contact Page
+
+Contact form
+
+Support email
+
+WhatsApp button
+
+FAQ section
+
+Chatbot placeholder for HoloBiz AI
+
+📦 UI Components to Include
+
+Voice input microphone button
+
+Animated sound wave
+
+AI reply bubble
+
+Insight cards
+
+KPI dashboard widgets
+
+Charts (cash flow, sales, profit trend)
+
+Compliance timeline
+
+Loan-readiness score gauge
+
+Export opportunity map
+
+Cluster recommendation cards
+
+✨ Overall Website Feeling
+
+A blend of:
+
+Google Assistant
+
+Fintech dashboard
+
+SME-friendly advisor
+
+Policy-compliant government-grade reliability
+
+Beautiful, warm, and non-intimidating visuals
+
+Make the website simple enough for non-tech SME owners but advanced enough to show AI power.
