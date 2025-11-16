@@ -23,30 +23,33 @@ export function Navbar() {
     <nav className="sticky top-0 z-50 border-b border-border backdrop-blur-md bg-background/80">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link href="/">
-            <a className="flex items-center gap-2" data-testid="link-home">
+          <Link href="/" data-testid="link-home">
+            <div className="flex items-center gap-2 cursor-pointer">
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-holobiz-purple to-holobiz-blue flex items-center justify-center">
                 <Mic className="w-6 h-6 text-white" />
               </div>
               <span className="text-xl font-heading font-bold bg-gradient-to-r from-holobiz-blue to-holobiz-purple bg-clip-text text-transparent">
                 HoloBiz
               </span>
-            </a>
+            </div>
           </Link>
 
           <div className="hidden lg:flex items-center gap-1">
             {navItems.map((item) => (
-              <Link key={item.path} href={item.path}>
-                <a
-                  className={`px-3 py-2 text-sm font-medium rounded-md transition-colors hover-elevate ${
+              <Link 
+                key={item.path} 
+                href={item.path}
+                data-testid={`link-${item.label.toLowerCase().replace(/\s+/g, "-")}`}
+              >
+                <div
+                  className={`px-3 py-2 text-sm font-medium rounded-md transition-colors hover-elevate cursor-pointer ${
                     location === item.path
                       ? "text-primary"
                       : "text-muted-foreground"
                   }`}
-                  data-testid={`link-${item.label.toLowerCase().replace(/\s+/g, "-")}`}
                 >
                   {item.label}
-                </a>
+                </div>
               </Link>
             ))}
           </div>
@@ -79,18 +82,21 @@ export function Navbar() {
           >
             <div className="px-4 py-4 space-y-2">
               {navItems.map((item) => (
-                <Link key={item.path} href={item.path}>
-                  <a
-                    className={`block px-3 py-2 text-sm font-medium rounded-md ${
+                <Link 
+                  key={item.path} 
+                  href={item.path}
+                  data-testid={`link-mobile-${item.label.toLowerCase().replace(/\s+/g, "-")}`}
+                >
+                  <div
+                    className={`block px-3 py-2 text-sm font-medium rounded-md cursor-pointer ${
                       location === item.path
                         ? "bg-accent text-accent-foreground"
                         : "text-muted-foreground hover-elevate"
                     }`}
                     onClick={() => setMobileMenuOpen(false)}
-                    data-testid={`link-mobile-${item.label.toLowerCase().replace(/\s+/g, "-")}`}
                   >
                     {item.label}
-                  </a>
+                  </div>
                 </Link>
               ))}
               <Button className="w-full bg-gradient-to-r from-holobiz-blue to-holobiz-purple" data-testid="button-mobile-try-holobiz">
